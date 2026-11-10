@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below (citation details will be updated after publication)."
+title: "ychannel-adjoint-inverse: adjoint-based CG recovery of diffusion coefficients and source terms in a microfluidic Y-channel"
+type: software
+version: "1.0"
+license: MIT
+repository-code: "https://github.com/ridwan029-dev/ychannel-adjoint-inverse"
+authors:
+  - family-names: Abdurrahman
+    given-names: Ridwan
+    affiliation: "Tokyo Metropolitan University"
+preferred-citation:
+  type: article
+  title: "Simultaneous Regularized Field Recovery of Diffusion Coefficients and Source Terms in Microfluidic Acid–Base Reactions"
+  authors:
+    - family-names: Abdurrahman
+      given-names: Ridwan
+    - family-names: Matsunaga
+      given-names: Koma
+    - family-names: Abe
+      given-names: Yuina
+    - family-names: Kakuta
+      given-names: Naoto
+  journal: "Chemical Engineering Science"
+  notes: "Submitted"
